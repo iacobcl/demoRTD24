@@ -22,3 +22,4 @@ Contents
    api
    support
    requirements
+   design
